@@ -1,0 +1,22 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "学习typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feinno001/typescript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "feinno001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feinno001/typescript/issues"
+  },
+  "homepage": "https://github.com/feinno001/typescript#readme"
+}
